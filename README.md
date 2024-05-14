@@ -5,7 +5,7 @@ This repository contains code for developing a hand gesture recognition model us
 # Dataset
 The Sign Language MNIST dataset consists of 28x28 grayscale images of hand gestures representing letters from the American Sign Language alphabet. Each image is labeled with a corresponding letter.
 
-# Dataset Link: Sign Language MNIST
+# Dataset Link:https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 
 # Model Architecture
 The hand gesture recognition model is built using a convolutional neural network (CNN) with the following architecture:
